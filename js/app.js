@@ -20,7 +20,19 @@ $.ajax("https://spreadsheets.google.com/feeds/list/1FRym7aCbqwt12Xqfsnt2gly2MUeS
     })
     console.log(projects)
 
+    const final = projects.map((project) => {
+        return `
+        <my-card name=${project.name} git=${project.git} live=${project.live} img=${project.img}></my-card>`
+    })
+
+    console.log(final)
+
+    const $section = $('section')
+
+    $section.html(final.join (""))
+
     /////////////////////////////////////////////////
     // jQuery to render your projects below!!!!
     /////////////////////////////////////////////////
+    
 })

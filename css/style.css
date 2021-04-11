@@ -55,3 +55,26 @@ header nav div a article {
 main h2 {
     text-align: center;
 }
+
+.img {
+    max-width: 300px;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 10px auto;
+}
+
+::part(footer) {
+    display: flex;
+    justify-content: center;
+}
+
+sl-button-group::part(base) {
+    display: flex;
+    justify-content: space-around;
+
+}
