@@ -1,8 +1,8 @@
 # Project Overview
 
-**PROJECT NAME:** dfadfadfsdfadf
+**PROJECT NAME:** Dillon's Project 1
 
-**PROJECT AUTHOR:** lkjlkjljlkadfsd
+**PROJECT AUTHOR:** Dillon McDonald
 
 ## Project Schedule
 
@@ -45,6 +45,7 @@ Link To Site  | One Thing I'd Like To Incorporate |
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
 - [Mobile](https://i.imgur.com/P3iBEZf.jpg)
+- [Tablet] (ADD MY LINK HERE)
 - [Desktop](https://i.imgur.com/xpOWo0E.jpg)
 
 Wireframing Resources:
