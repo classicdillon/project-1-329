@@ -36,3 +36,18 @@ $.ajax("https://spreadsheets.google.com/feeds/list/1FRym7aCbqwt12Xqfsnt2gly2MUeS
     /////////////////////////////////////////////////
     
 })
+
+//SANDWICH CODE
+
+const $sandwich = $("#sandwich")
+const $menu = $("#menu")
+
+$sandwich.on("click", (event) => {
+
+    if ($menu.css("display") === "flex") {
+        $menu.css("display", "none")
+    } else {
+        $menu.css("display", "flex")
+    }
+
+})
