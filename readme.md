@@ -22,36 +22,37 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+This project is to create my very first developer portfolio! I'll be looking to keep things super basic, but extremely functional.
 
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
+[Dillon's Google Sheet](https://spreadsheets.google.com/feeds/list/1FRym7aCbqwt12Xqfsnt2gly2MUeSNl8mZK7w3RqiLLY/1/public/full?alt=json) 
 
 ## Portfolio I want to Emulate
 
-Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site.
+<!-- Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site. -->
 
 Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- |
-| [denisechandler.com](http://www.denisechandler.com/)| landing page animation
-|[jkeohan.com](http://jkeohan.com/) | mouseover on a project triggers animations |
-| [mattfarley.ca](http://mattfarley.ca/) |  layout of the projects
+| [roxinekee.com](https://www.roxinekee.com/)| I like the header layout and clean menu items |
+|[iamtamara.design](https://www.iamtamara.design/) | The round edge div designs look great |
+| [niashanks.com](https://niashanks.com/) |  I'd like to implement a similar nav bar that always stays at the top |
+|[devonstank.com](https://www.devonstank.com/) | Big fan of how the projects are organized but offset at the same time  |
 
 ---
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
+<!-- Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.   -->
 
-- [Mobile](https://i.imgur.com/P3iBEZf.jpg)
-- [Tablet] (ADD MY LINK HERE)
-- [Desktop](https://i.imgur.com/xpOWo0E.jpg)
+- [Mobile](https://imgur.com/C9k9Hn5)
+- [Tablet](https://imgur.com/tBT14rx)
+- [Desktop](https://imgur.com/xTx7pHz)
 
-Wireframing Resources:
+<!-- Wireframing Resources:
 
 - [Mockflow](https://mockflow.com/app/#Wireframe)
-- [Figma](https://www.figma.com/)
+- [Figma](https://www.figma.com/) -->
 
 
 ## Time/Priority Matrix 
