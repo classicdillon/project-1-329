@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border-color: black;
 }
 :root {
     --title: 'Fira Sans Condensed', sans-serif;
@@ -29,18 +30,19 @@ header nav {
     justify-content: space-between;
 }
 
-header nav #sandwich {
+/* header nav #sandwich {
     display: none;
-}
+} */
 
 header nav h1 {
     color: white;
+    margin: 5px;
 }
 
 header nav #menu {
+    display: flex;
     color: white;
     padding: 5px;
-    flex-direction: column;
 }
 
 header nav div a {
@@ -51,7 +53,12 @@ header nav div a {
 
 header nav div a article {
     margin: 5px;
-    text-transform: uppercase;
+}
+
+.hambugericon {
+    color: white;
+    display: none;
+    font-size: x-large
 }
 
 /* MAIN STYLES */
@@ -92,8 +99,11 @@ sl-button-group::part(base) {
     header nav #menu {
         display: none;
     }
-
-    header nav #sandwich {
+    .hambugericon {
         display: block;
     }
+
+    /* header nav #sandwich {
+        display: block;
+    } */
 }
